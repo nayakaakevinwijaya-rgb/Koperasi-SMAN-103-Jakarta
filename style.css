@@ -26,6 +26,10 @@ h1 {
   font-size: 24px;
   font-weight: bold;}
 
+p {
+  text-allign: center;
+}
+
 nav a {
   margin-left: 20px;
   text-decoration: none;
@@ -155,3 +159,4 @@ footer {
   width: 80%;
   line-height: 1.6;
 }
+
