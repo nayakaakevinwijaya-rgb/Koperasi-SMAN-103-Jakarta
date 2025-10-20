@@ -53,6 +53,10 @@ h2 {
   margin-bottom: 20px;
 }
 
+ul {
+  background-color: #fff;
+}
+
 .fade {
   opacity: 0;
   transform: translateY(20px);
@@ -168,4 +172,5 @@ footer {
   width: 80%;
   line-height: 1.6;
 }
+
 
