@@ -82,10 +82,6 @@ ul {
   background-color: #fff;
 }
 
-  body {
-    background-image: url(koperasi.jpg);
-    background-attachment: fixed;
-  }
 
 /* Produk / Checkout */
 .product-list {
@@ -186,3 +182,4 @@ footer {
   width: 80%;
   line-height: 1.6;
 }
+
