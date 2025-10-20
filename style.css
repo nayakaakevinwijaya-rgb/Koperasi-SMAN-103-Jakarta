@@ -53,12 +53,6 @@ h2 {
   margin-bottom: 20px;
 }
 
-footer p {
-  background-color: #1e3a8a;
-  color: white;
-  text-align: center;
-}
-
 
 .fade {
   opacity: 0;
@@ -178,5 +172,6 @@ footer {
   width: 80%;
   line-height: 1.6;
 }
+
 
 
