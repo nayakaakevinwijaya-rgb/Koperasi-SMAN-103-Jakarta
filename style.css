@@ -53,9 +53,16 @@ h2 {
   margin-bottom: 20px;
 }
 
-ul {
-  background-color: #fff;
+p {
+ background-color: #fff;
 }
+
+footer p {
+  background-color: #1e3a8a;
+  color: white;
+  text-align: center;
+}
+
 
 .fade {
   opacity: 0;
@@ -66,6 +73,13 @@ ul {
 .fade.show {
   opacity: 1;
   transform: translateY(0);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0;
+  background-color: #fff;
 }
 
   body {
@@ -172,5 +186,3 @@ footer {
   width: 80%;
   line-height: 1.6;
 }
-
-
